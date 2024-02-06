@@ -1,0 +1,7 @@
+@media screen and (max-width: 1200px) {
+  body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+}
